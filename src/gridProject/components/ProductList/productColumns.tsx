@@ -18,5 +18,14 @@ export const productColumns: (ColDef | ColGroupDef)[] = [
   { field: "price", headerName: "Price", sortable: true },
   { field: "discountPercentage", headerName: "Discount Percentage" },
   { field: "rating", headerName: "Rating" },
-  { field: "category", headerName: "Category", filter: true },
+  { field: "category", headerName: "Category", filter: "agTextColumnFilter" },
+];
+
+export const category = [
+  "smartphones",
+  "laptops",
+  "fragrances",
+  "skincare",
+  "groceries",
+  "homeDecoration",
 ];

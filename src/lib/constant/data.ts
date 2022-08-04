@@ -536,7 +536,7 @@ export const data = [
   },
   {
     id: 29,
-    title: "Handcraft Chinese style",
+    title: "Handcraft Chinese style smartphones",
     description:
       "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
     price: 60,
